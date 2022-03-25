@@ -10,10 +10,11 @@
 </table>
           
 ## Some Simple Steps to Start
-- CREATE YOUR ACCOUNT
-- CREATE YOUR PROJECT
-- CREATE YOUR HELP POINTS
-- VIEW INLINE IN YOUR SITE
+- create your ACCOUNT
+- create your PROJECT
+- create your HELP POINTS
+- EMBED a script in your site
+- view HELP INLINE in your site
 
 ## Advanced Features
 - multi languages
