@@ -9,4 +9,13 @@
    </tr>
 </table>
           
-# 2 steps to start: CREATE - VIEW INLINE
+## Some Simple Steps to Start
+- CREATE YOUR ACCOUNT
+- CREATE YOUR PROJECT
+- CREATE YOUR HELP POINTS
+- VIEW INLINE IN YOUR SITE
+
+## ADVANCED FEATURES
+- multi languages
+- single project multi installations
+- protect your help points with SSO accounts
