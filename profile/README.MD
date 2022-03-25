@@ -15,6 +15,7 @@
 - create your HELP POINTS
 - EMBED a script in your site
 - view HELP INLINE in your site
+- WIN a t-shirt
 
 ## Advanced Features
 - multi languages
