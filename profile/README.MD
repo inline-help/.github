@@ -1,3 +1,4 @@
+# Help Inline
 
 <table>
     <tr>
@@ -8,3 +9,4 @@
    </tr>
 </table>
           
+# 2 steps to start: CREATE - VIEW INLINE
