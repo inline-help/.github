@@ -15,7 +15,7 @@
 - CREATE YOUR HELP POINTS
 - VIEW INLINE IN YOUR SITE
 
-## ADVANCED FEATURES
+## Advanced Features
 - multi languages
 - single project multi installations
 - protect your help points with SSO accounts
