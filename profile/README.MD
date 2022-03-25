@@ -1,6 +1,5 @@
-hello guys
+Inline Hello 
 
-
-<img src="tshirt.jpg>
+<img src="tshirt.jpg">
           
           
